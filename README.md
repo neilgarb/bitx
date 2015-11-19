@@ -1,6 +1,8 @@
 BitX PHP Client
 ===============
 
+[![Build Status](https://travis-ci.org/neilgarb/bitx.svg?branch=master)](https://travis-ci.org/neilgarb/bitx)
+
 This is a PHP client for the BitX API (https://bitx.co/api).
 
 The client uses Guzzle to make HTTPS calls.
