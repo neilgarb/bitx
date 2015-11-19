@@ -1,4 +1,16 @@
 {
+  "name": "neilgarb/bitx",
+  "type": "library",
+  "description": "BitX PHP Client",
+  "keywords": ["bitx", "bitcoin", "client"],
+  "homepage": "https://github.com/neilgarb/bitx",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Neil Garb",
+      "email": "neil.garb@gmail.com"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "Bitx\\": "src/Bitx/"
