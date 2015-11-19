@@ -7,6 +7,11 @@ This is a PHP client for the BitX API (https://bitx.co/api).
 
 The client uses Guzzle to make HTTPS calls.
 
+## Installation
+
+```bash
+composer require "neilgarb/bitx"
+```
 
 ## Usage
 
